@@ -9,4 +9,4 @@ export const appRoutes: Routes = [
     {path: 'health', component: SectionHealthComponent},
 
     {path: '', redirectTo: '/sales' , pathMatch: 'full'}
-]
+];
